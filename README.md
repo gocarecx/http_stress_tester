@@ -1,4 +1,4 @@
-# General Purpose HTTP Stress Tester
+# General Purpose HTTP Stress Tester.
 
 This general-purpose HTTP stress tester allows you to stress test HTTP endpoints by sending a specified number of requests evenly distributed over a given 
 period.
